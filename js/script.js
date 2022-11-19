@@ -22,29 +22,6 @@ btnSearch.addEventListener('click', (e)=>{
 })
 
 
-
-
-
-
-
-
-
-
-// console.log(`indexOf(): ${sentence.indexOf('love')}`);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // btnSearch.addEventListener('click', (e)=>{
 //     e.preventDefault();
 //     information.push(enterSentence.value);
